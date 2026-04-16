@@ -2,7 +2,13 @@ node_modules
 .next
 .env
 .env.local
-out
+.env.development.local
+.env.production.local
+.env.test.local
 dist
 build
+out
 *.log
+.DS_Store.claude
+
+.claude/
